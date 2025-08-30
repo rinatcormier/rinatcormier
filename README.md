@@ -1,4 +1,11 @@
+# (Under construction...)
+
 ## Hi there 👋
+
+## whoami
+I am a software developer focused on backend development.
+
+## badges
 ![](https://www.codewars.com/users/rinatcormier/badges/small)
 
 <!--
